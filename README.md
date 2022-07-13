@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;I'm XhstormR
 
 - Currently working on Web Security
-- Blog: http://xhstormr.tk/
+- Blog: https://xhstormr.github.io/
 
 ### ⚙️ &nbsp;GitHub Analytics
 
