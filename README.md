@@ -1,12 +1,36 @@
 ## 👋 &nbsp;Hi there
 
-### 👨🏻‍💻 &nbsp;I'm XhstormR
+<details>
+  <summary><b>👨🏻‍💻 &nbsp;I'm XhstormR</b></summary>
+  <br/>
 
-- Currently working on Web Security
-- Blog: https://xhstormr.github.io/
+  - Currently working on Web Security
+  - Blog: https://xhstormr.github.io/
 
-### ⚙️ &nbsp;GitHub Analytics
+</details>
 
-<a href="https://github.com/XhstormR">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=XhstormR&hide_title=true&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XhstormR&hide_title=true&hide_border=true&layout=compact&hide=plsql,html,css&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
+<details>
+    <summary><b>⚙️ &nbsp;Languages Stats</b></summary>
+    <br/>
+    <picture align="left">
+        <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XhstormR&theme=nord_dark">
+    </picture>
+    <picture align="right">
+        <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XhstormR&theme=nord_dark">
+    </picture>
+</details>
+
+<details>
+    <summary><b>⚙️ &nbsp;GitHub Analytics</b></summary>
+    <br/>
+    <picture align="left">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XhstormR&theme=nord_dark">
+    </picture>
+    <picture align="right">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XhstormR&theme=nord_dark">
+    </picture>
+</details>
+
+<picture>
+    <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XhstormR&theme=nord_dark">
+</picture>
