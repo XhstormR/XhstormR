@@ -10,7 +10,7 @@
 </details>
 
 <details>
-    <summary><b>⚙️ &nbsp;Languages Stats</b></summary>
+    <summary><b>🔭 &nbsp;Languages Stats</b></summary>
     <br/>
     <picture align="left">
         <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XhstormR&theme=nord_dark">
